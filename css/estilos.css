@@ -2,14 +2,14 @@
   --cinza: #aaa;
   --vermelha: #e93d50;
   --vermelha-escura: #af303f;
-  --branca: #fff;
-  --luz: rgb(229, 255, 0);
+  --branca: #000000;
+  --luz: rgb(255, 174, 0), 0.562);
   --preto:#000000;
 }
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #cfb2ca 0%,#866784 100%);
+  background: linear-gradient(45deg, #ffff00 0%,#000000 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
